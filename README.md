@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**meriem-8687/meriem-8687** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 From: Algeria
+💻 First-year Computer Science Student at USTHB Bab Ezzouar
 
-Here are some ideas to get you started:
+I'm a passionate and dedicated first-year computer science student, eager to dive into the world of coding and technology. While I'm just starting my journey, I'm excited about learning and growing my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I'm Working On:
+-Building a strong foundation in computer science principles
+-Exploring various programming languages and technologies
+-Working on small projects to apply what I learn
+
+What I'm Learning:
+-Programming Languages: Python, JavaScript, C
+-Web Development: HTML, CSS, JavaScript
+-Data Structures and Algorithms
+
+Future Goals:
+-Contributing to open-source projects
+-Building a diverse portfolio of projects
+-Becoming a full-stack developer
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meriem-8687)](https://github.com/anuraghazra/github-readme-stats)
