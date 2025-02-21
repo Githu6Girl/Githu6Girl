@@ -1,12 +1,17 @@
+### 🌙 Meriem—Figuring Things Out, One Line of Code at a Time  
 
-### Hi there 👋, I'm Meriem  
-#### A Computer Science Student on a Journey to Learn and Build  
+Currently navigating the world of code, pixels, and occasional 3D chaos. I write, design, and sometimes break things (but always fix them… eventually).  
 
-I'm a passionate and dedicated second-year computer science student, eager to dive into the world of coding and technology. While I'm just starting my journey, I'm excited about learning and growing my skills.
+### 🛠️ Tech Stack  
+🎨 **Design & 3D:**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)  
 
-### 🛠️ My Tech Stack  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)  
+🌐 **Frontend:**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
-### About Me  
-I’m currently working on improving my coding and design skills.   
-
+📜 **Other Languages I'm Learning:**  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
