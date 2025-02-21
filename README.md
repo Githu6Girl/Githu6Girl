@@ -15,4 +15,5 @@ Currently navigating the world of code, pixels, and occasional 3D chaos. I write
 📜 **Other Languages I'm Learning:**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Githu6Girl)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Githu6Girl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
